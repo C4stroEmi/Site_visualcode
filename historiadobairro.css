@@ -1,0 +1,302 @@
+@import url('https://fonts.googleapis.com/css2?family=Junge&family=Koh+Santepheap:wght@100&family=Montserrat:wght@100;400;700&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+
+
+header{
+    background-color:black;
+    justify-content: center;
+    display: flex;
+    height: 5vw;
+    color: white;  
+    
+}
+
+
+#htbrrimg{
+    width: 100%;
+}
+
+#imglogo{
+    height: 55% ;
+    top: 1vw;
+    position: relative;
+    left: -47%;
+}
+
+#imgperfil{
+    height: 6%;
+    position: absolute;
+    top: 1vw;
+    right: 3vw;
+}
+
+.Infomenu{
+    margin-top: 2vw;
+    margin-left: 45vw;
+    position:absolute;
+}
+
+#traçocomeço{
+    position: absolute;
+    height: 2px;
+    width: 300px;
+    top: 28vw;
+    left: 10px;
+}
+
+li{
+    margin-left: 3vw;
+    display: inline-block;
+    font-size: 110%;
+}
+
+#titulojaguaré{
+    top:300px;
+    position: absolute;
+    color: white;
+    left: 35px;
+    font-family: 'Junge', serif;
+    font-size: 50px;
+}
+
+#rodapé{
+    position: absolute;
+    background-color:#111111;
+    top: 180vw; 
+    width: 1251px;  
+    height: 400px; 
+}
+
+#redessocais{
+    position: absolute;
+    display: inline-block;
+}
+
+#Ttimg{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    top: 150px;
+    border-radius: 20px;
+    left: -700px;
+  
+}
+
+#Faceimg{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    top: 150px;
+    border-radius: 20px;
+    left: -585px;
+}
+
+#Instaimg{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    top: 150px;
+    border-radius: 20px;
+    left: -470px;
+}
+
+#zapimg{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    top: 150px;
+    left: -359px;
+    border-radius: 20px;
+}
+
+#ytimg{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    top: 150px;
+    left: -240px;
+    border-radius: 20px;
+}
+
+#ptimg{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    top: 150px;
+    left: -130px;
+    border-radius: 20px;
+}
+
+#retangulo1{
+    position: absolute;
+    height: 1px;
+    width: 205px;
+    top: 75px;
+    left: 120px;
+}
+
+#Retangulo1titulo{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    top: 50px;
+    left: 150px;
+}
+
+.retangulo1texto{
+    position: absolute;
+    color: white;
+    font-size: 10px;
+    top: 85px;
+    left: 152px;
+}
+
+#retangulo2{
+    position: absolute;
+    height: 1px;
+    width: 205px;
+    top: 75px;
+    left: 410px;
+}
+
+#Retangulo2titulo{
+    position: absolute;
+    width: 500px;
+    color: white;
+    font-size: 20px;
+    top: -35px;
+    left: 300px;
+}
+
+.retangulo2texto{
+    position: absolute;
+    color: white;
+    top: -3px;
+    left: 300px;
+}
+
+#retangulo3{
+    position: absolute;
+    height: 1px;
+    width: 205px;
+    top: 75px;
+    left: 650px;   
+}
+
+#Retangulo3titulo{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    top: -35px;
+    left: 250px; 
+}
+
+.retangulo3texto{
+    position: absolute;
+    width: 200px;
+    color: white;
+    font-size: 10px;
+    top: 3px;
+    left: 200px; 
+}
+
+#retangulo4{
+    position: absolute;
+    height: 1px;
+    width: 205px;
+    top: 75px;
+    left: 900px;   
+}
+
+
+#Retangulo4titulo{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    top: -38px;
+    left: 300px;
+}
+
+.retangulo4texto{
+    position: absolute;
+    width: 100px;
+    color: white;
+    font-size: 10px;
+    top: -2px;
+    left: 260px;
+}
+
+#retangulo5{
+    position: absolute;
+    width: 1050px;
+    height: 2px;
+    top: 350px;
+    left: 80px;
+}
+
+#nomehstrimg{
+    position: absolute;
+    width: 450px;
+    top: -115vw;
+    left: 7vw;
+
+}
+
+#nomehstr{
+    position: absolute;
+    left: 60vw;
+    top: -115vw;
+    font-family: 'Junge', serif;
+}
+
+#titulohstr{
+    position: absolute;
+    font-family: 'Junge', serif;
+    left: 40vw;
+    top: -82vw;
+}
+
+#retangulopretonome{
+    background-color: black;
+    width: 500px;
+    height: 300px;
+    margin-top: -117vw;
+    margin-left: 35px;
+}
+
+#textnome{
+    position: absolute;
+    left: 700px;
+    width: 500px;
+    top: -110vw;
+    
+
+}
+
+#traçopretodpsnome{
+    position: absolute;
+    background-color: black;
+    width: 707px;
+    height: 2px;
+    left: 43vw;
+    top: -85vw;
+}
+
+#texthistoria{
+    position: absolute;
+    width: 65vw;
+    left: 20vw;
+    top: -75vw;
+}
